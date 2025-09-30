@@ -1,0 +1,556 @@
+2025-09-25 12:56:19,109 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-02-28.
+2025-09-25 12:56:19,109 - INFO - Diretório criado: dadosGrib
+2025-09-25 12:56:19,111 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 12:56:20,155 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 12:56:20,354 - ERROR - Falha ao baixar o lote para o período 2002-01-01 - 2002-01-15. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 12:56:20,356 - INFO - Baixando lote de 2002-01-16 a 2002-01-30
+2025-09-25 12:56:20,551 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 12:56:20,756 - ERROR - Falha ao baixar o lote para o período 2002-01-16 - 2002-01-30. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 12:56:20,757 - INFO - Baixando lote de 2002-01-31 a 2002-02-14
+2025-09-25 12:56:20,988 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 12:56:21,214 - ERROR - Falha ao baixar o lote para o período 2002-01-31 - 2002-02-14. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 12:56:21,214 - INFO - Baixando lote de 2002-02-15 a 2002-02-28
+2025-09-25 12:56:21,416 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 12:56:21,624 - ERROR - Falha ao baixar o lote para o período 2002-02-15 - 2002-02-28. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:03:17,131 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-02-28.
+2025-09-25 13:03:17,133 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 13:03:18,168 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:03:18,358 - ERROR - Falha ao baixar o lote para o período 2002-01-01 - 2002-01-15. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:03:18,359 - INFO - Baixando lote de 2002-01-16 a 2002-01-30
+2025-09-25 13:03:18,547 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:03:18,736 - ERROR - Falha ao baixar o lote para o período 2002-01-16 - 2002-01-30. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:03:18,737 - INFO - Baixando lote de 2002-01-31 a 2002-02-14
+2025-09-25 13:03:18,938 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:03:19,159 - ERROR - Falha ao baixar o lote para o período 2002-01-31 - 2002-02-14. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:03:19,160 - INFO - Baixando lote de 2002-02-15 a 2002-02-28
+2025-09-25 13:03:19,350 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:03:19,540 - ERROR - Falha ao baixar o lote para o período 2002-02-15 - 2002-02-28. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:08:14,198 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-02-28.
+2025-09-25 13:08:28,619 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-02-28.
+2025-09-25 13:09:08,412 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-02-28.
+2025-09-25 13:16:31,942 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-02-28.
+2025-09-25 13:16:31,944 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 13:16:32,983 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:16:33,208 - ERROR - Falha ao baixar o lote para o período 2002-01-01 - 2002-01-15. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:16:33,209 - INFO - Baixando lote de 2002-01-16 a 2002-01-30
+2025-09-25 13:16:33,403 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:16:33,599 - ERROR - Falha ao baixar o lote para o período 2002-01-16 - 2002-01-30. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:16:33,600 - INFO - Baixando lote de 2002-01-31 a 2002-02-14
+2025-09-25 13:16:33,797 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:16:33,994 - ERROR - Falha ao baixar o lote para o período 2002-01-31 - 2002-02-14. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:16:33,995 - INFO - Baixando lote de 2002-02-15 a 2002-02-28
+2025-09-25 13:16:34,190 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:16:34,385 - ERROR - Falha ao baixar o lote para o período 2002-02-15 - 2002-02-28. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:17:24,704 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-02-28.
+2025-09-25 13:17:24,706 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 13:17:25,770 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:17:25,966 - ERROR - Falha ao baixar o lote para o período 2002-01-01 - 2002-01-15. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:17:25,966 - INFO - Baixando lote de 2002-01-16 a 2002-01-30
+2025-09-25 13:17:26,159 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:17:26,354 - ERROR - Falha ao baixar o lote para o período 2002-01-16 - 2002-01-30. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:17:26,356 - INFO - Baixando lote de 2002-01-31 a 2002-02-14
+2025-09-25 13:17:26,549 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:17:26,742 - ERROR - Falha ao baixar o lote para o período 2002-01-31 - 2002-02-14. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:17:26,743 - INFO - Baixando lote de 2002-02-15 a 2002-02-28
+2025-09-25 13:17:26,945 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:17:27,158 - ERROR - Falha ao baixar o lote para o período 2002-02-15 - 2002-02-28. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:18:59,675 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-02-28.
+2025-09-25 13:18:59,677 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 13:19:01,720 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:19:01,919 - ERROR - Falha ao baixar o lote para o período 2002-01-01 - 2002-01-15. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:19:01,920 - INFO - Baixando lote de 2002-01-16 a 2002-01-30
+2025-09-25 13:19:02,116 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:19:02,318 - ERROR - Falha ao baixar o lote para o período 2002-01-16 - 2002-01-30. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:19:02,319 - INFO - Baixando lote de 2002-01-31 a 2002-02-14
+2025-09-25 13:19:02,515 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:19:02,712 - ERROR - Falha ao baixar o lote para o período 2002-01-31 - 2002-02-14. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:19:02,713 - INFO - Baixando lote de 2002-02-15 a 2002-02-28
+2025-09-25 13:19:02,909 - INFO - Sending request to https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-land
+2025-09-25 13:19:03,108 - ERROR - Falha ao baixar o lote para o período 2002-02-15 - 2002-02-28. Erro: Climate Data Store API endpoint not found
+
+It seems you are trying to access an API endpoint that does not exist.
+
+It is possible that you are pointing to an outdated API endpoint which has been removed/renamed.
+If you are using the standard cdsapi Python library, please ensure that:
+
+- your cdsapi version is updated
+- your .cdsapirc file is correctly configured ("url" should be set to https://cds.climate.copernicus.eu/api and "key" should be set to your API key WITHOUT the `<UID>:` prefix)
+
+If you are trying to access a REST API endpoint directly, please refer to the documentation for more information on how to access REST API endpoints:
+https://cds.climate.copernicus.eu/how-to-api
+2025-09-25 13:21:17,188 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-02-28.
+2025-09-25 13:21:18,318 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-25 13:21:18,319 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-25 13:21:18,319 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 13:21:18,840 - INFO - Request ID is 13a99b70-9d09-404f-88be-2c8edf6d3e38
+2025-09-25 13:21:19,078 - INFO - status has been updated to accepted
+2025-09-25 13:21:33,469 - INFO - status has been updated to running
+2025-09-25 13:26:34,271 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-02-28.
+2025-09-25 13:26:35,314 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-25 13:26:35,315 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-25 13:26:35,315 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 13:26:35,902 - INFO - Request ID is 473f4f2e-c306-4c82-8eff-0521e5117898
+2025-09-25 13:26:36,212 - INFO - status has been updated to accepted
+2025-09-25 13:29:43,937 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-02-28.
+2025-09-25 13:29:45,034 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-25 13:29:45,034 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-25 13:29:45,035 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 13:29:45,742 - INFO - Request ID is 670ad2eb-6bee-410c-902c-6a5cbde8d243
+2025-09-25 13:29:45,984 - INFO - status has been updated to accepted
+2025-09-25 13:30:15,128 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-01-01.
+2025-09-25 13:30:16,212 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-25 13:30:16,212 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-25 13:30:16,213 - INFO - Baixando lote de 2002-01-01 a 2002-01-01
+2025-09-25 13:30:16,672 - INFO - Request ID is fb6e7cfa-c3a8-4eba-888c-60c29245385f
+2025-09-25 13:30:16,872 - INFO - status has been updated to accepted
+2025-09-25 13:33:11,640 - ERROR - Falha ao baixar o lote para o período 2002-01-01 - 2002-01-01. Erro: 404 Client Error: Not Found for url: https://cds.climate.copernicus.eu/api/retrieve/v1/jobs/fb6e7cfa-c3a8-4eba-888c-60c29245385f?log=True&request=True
+job not found
+job fb6e7cfa-c3a8-4eba-888c-60c29245385f deleted
+2025-09-25 13:33:35,429 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-01-15.
+2025-09-25 13:33:36,450 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-25 13:33:36,451 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-25 13:33:36,452 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 13:33:36,954 - INFO - Request ID is 5a0caaa2-39bf-4906-ae2e-3dcbbc7729a5
+2025-09-25 13:33:37,210 - INFO - status has been updated to accepted
+2025-09-25 13:34:11,075 - INFO - status has been updated to running
+2025-09-25 14:23:45,118 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-01-15.
+2025-09-25 14:23:45,965 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-25 14:23:45,966 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-25 14:23:45,966 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 14:23:46,433 - INFO - Request ID is 3bbf298b-9cd1-4c5d-803b-5612a36a5389
+2025-09-25 14:23:46,699 - INFO - status has been updated to accepted
+2025-09-25 14:23:55,771 - INFO - status has been updated to running
+2025-09-25 14:24:01,154 - INFO - status has been updated to failed
+2025-09-25 14:27:51,383 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-01-15.
+2025-09-25 14:27:52,285 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-25 14:27:52,285 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-25 14:27:52,286 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 14:27:52,809 - INFO - Request ID is 611bb7d5-be54-4dc2-a398-19c930f8be29
+2025-09-25 14:27:53,053 - INFO - status has been updated to accepted
+2025-09-25 14:28:02,235 - INFO - status has been updated to running
+2025-09-25 14:28:07,544 - INFO - status has been updated to failed
+2025-09-25 14:29:38,285 - INFO - Iniciando download em lotes para o período de 2002-01-01 a 2002-01-15.
+2025-09-25 14:29:39,546 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-25 14:29:39,547 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-25 14:29:39,548 - INFO - Baixando lote de 2002-01-01 a 2002-01-15
+2025-09-25 14:29:40,169 - INFO - Request ID is bdee9258-867b-48b2-9c97-3c2f448ec41d
+2025-09-25 14:29:40,397 - INFO - status has been updated to accepted
+2025-09-25 14:29:49,585 - INFO - status has been updated to running
+2025-09-25 14:44:07,685 - INFO - status has been updated to successful
+2025-09-26 10:30:08,896 - INFO - Iniciando download em lotes para o período de 2002-03-11 a 2002-03-11.
+2025-09-26 10:30:08,898 - INFO - Diretório criado: dadosGrib
+2025-09-26 10:30:11,618 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-26 10:30:11,619 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-26 10:30:11,620 - INFO - Baixando LOTE: surface de 2002-03-11 a 2002-03-11
+2025-09-26 10:30:12,412 - INFO - Request ID is e74db912-0739-4099-ace4-92c30c79ca45
+2025-09-26 10:30:12,690 - INFO - status has been updated to accepted
+2025-09-26 10:30:22,092 - INFO - status has been updated to running
+2025-09-26 10:31:30,660 - INFO - status has been updated to successful
+2025-09-26 10:32:48,678 - INFO - Baixando LOTE: soil de 2002-03-11 a 2002-03-11
+2025-09-26 10:32:50,619 - INFO - Request ID is 7b32cbe8-5099-4492-be3b-b5a4665f6000
+2025-09-26 10:32:50,908 - INFO - status has been updated to accepted
+2025-09-26 10:33:00,350 - INFO - status has been updated to running
+2025-09-26 10:33:25,196 - INFO - status has been updated to successful
+2025-09-26 10:47:13,072 - INFO - Iniciando download em lotes para o período de 2002-03-11 a 2002-03-11.
+2025-09-26 10:47:14,812 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-26 10:47:14,813 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-26 10:47:14,815 - INFO - Baixando LOTE: surface de 2002-03-11 a 2002-03-11
+2025-09-26 10:47:15,704 - INFO - Request ID is 26c5aba4-d7e7-4f46-9441-c80c918e7691
+2025-09-26 10:47:16,012 - INFO - status has been updated to accepted
+2025-09-26 10:47:31,064 - INFO - status has been updated to successful
+2025-09-26 10:48:55,082 - INFO - Baixando LOTE: soil de 2002-03-11 a 2002-03-11
+2025-09-26 10:48:56,528 - INFO - Request ID is 88c1188c-d514-4057-9786-a14adf69fa85
+2025-09-26 10:48:56,806 - INFO - status has been updated to accepted
+2025-09-26 10:49:11,268 - INFO - status has been updated to running
+2025-09-26 10:49:20,919 - INFO - status has been updated to successful
+2025-09-26 11:17:09,151 - INFO - Iniciando download em lotes para o período de 2002-03-11 a 2002-03-11.
+2025-09-26 11:17:10,611 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-26 11:17:10,611 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-26 11:17:10,612 - INFO - Baixando LOTE: surface de 2002-03-11 a 2002-03-11
+2025-09-26 11:17:11,104 - INFO - Request ID is ad0962e3-a4cc-4e44-bac8-8237d326e453
+2025-09-26 11:17:11,418 - INFO - status has been updated to accepted
+2025-09-26 11:17:26,229 - INFO - status has been updated to successful
+2025-09-26 11:18:30,938 - INFO - Baixando LOTE: soil de 2002-03-11 a 2002-03-11
+2025-09-26 11:18:32,286 - INFO - Request ID is f344ef48-2c67-4360-b1c0-295f1ff56f14
+2025-09-26 11:18:32,525 - INFO - status has been updated to accepted
+2025-09-29 12:42:38,482 - INFO - Iniciando download em lotes para o período de 2002-03-11 a 2002-03-11.
+2025-09-29 12:42:39,694 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-29 12:42:39,695 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-29 12:42:39,697 - INFO - Baixando variável '2m_dewpoint_temperature' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:42:40,204 - INFO - Request ID is d25d7a04-bac6-4caa-b70e-92f89f0e09ce
+2025-09-29 12:42:40,430 - INFO - status has been updated to accepted
+2025-09-29 12:42:55,010 - INFO - status has been updated to running
+2025-09-29 12:43:02,827 - INFO - status has been updated to successful
+2025-09-29 12:43:09,102 - INFO - Baixando variável '2m_temperature' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:43:09,730 - INFO - Request ID is d529477c-739a-4a6a-a241-73ef5f7c21f0
+2025-09-29 12:43:09,949 - INFO - status has been updated to accepted
+2025-09-29 12:43:24,627 - INFO - status has been updated to running
+2025-09-29 12:43:32,448 - INFO - status has been updated to successful
+2025-09-29 12:43:38,095 - INFO - Baixando variável 'skin_temperature' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:43:38,594 - INFO - Request ID is fa9491a3-e827-454b-a667-dfddeca27e1f
+2025-09-29 12:43:38,827 - INFO - status has been updated to accepted
+2025-09-29 12:43:53,263 - INFO - status has been updated to running
+2025-09-29 12:44:01,166 - INFO - status has been updated to successful
+2025-09-29 12:44:08,748 - INFO - Baixando variável '10m_u_component_of_wind' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:44:09,531 - INFO - Request ID is 1414802e-e364-4748-b0b2-e88c19a1be20
+2025-09-29 12:44:09,857 - INFO - status has been updated to accepted
+2025-09-29 12:44:43,996 - INFO - status has been updated to successful
+2025-09-29 12:44:49,575 - INFO - Baixando variável '10m_v_component_of_wind' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:44:50,048 - INFO - Request ID is 2e84e740-3e30-47a6-bf70-24eb82057282
+2025-09-29 12:44:50,818 - INFO - status has been updated to accepted
+2025-09-29 12:45:05,192 - INFO - status has been updated to running
+2025-09-29 12:45:42,509 - INFO - status has been updated to successful
+2025-09-29 12:45:50,176 - INFO - Baixando variável 'surface_pressure' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:45:51,008 - INFO - Request ID is 0bc36677-308d-4df7-a85b-7b53b4d1013a
+2025-09-29 12:45:51,414 - INFO - status has been updated to accepted
+2025-09-29 12:46:00,835 - INFO - status has been updated to running
+2025-09-29 12:46:14,080 - INFO - status has been updated to successful
+2025-09-29 12:46:20,249 - INFO - Baixando variável 'total_precipitation' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:46:20,700 - INFO - Request ID is cb4ed662-c634-4f9b-bec8-7ec8594f2c10
+2025-09-29 12:46:21,081 - INFO - status has been updated to accepted
+2025-09-29 12:46:30,157 - INFO - status has been updated to running
+2025-09-29 12:46:35,450 - INFO - status has been updated to successful
+2025-09-29 12:46:42,318 - INFO - Baixando variável 'skin_reservoir_content' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:46:42,838 - INFO - Request ID is 96de686c-539b-4a75-91aa-b6ceed6e420a
+2025-09-29 12:46:43,218 - INFO - status has been updated to accepted
+2025-09-29 12:46:52,350 - INFO - status has been updated to running
+2025-09-29 12:47:05,511 - INFO - status has been updated to successful
+2025-09-29 12:47:12,142 - INFO - Baixando variável 'forecast_albedo' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:47:12,708 - INFO - Request ID is beda39bd-40c4-4abe-8762-8cfa97fc86a5
+2025-09-29 12:47:12,994 - INFO - status has been updated to accepted
+2025-09-29 12:47:27,461 - INFO - status has been updated to running
+2025-09-29 12:47:35,303 - INFO - status has been updated to successful
+2025-09-29 12:47:41,243 - INFO - Baixando variável 'surface_latent_heat_flux' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:47:41,790 - INFO - Request ID is 50277b33-1f1b-4881-9cdb-4a8ab4b64c4d
+2025-09-29 12:47:42,059 - INFO - status has been updated to accepted
+2025-09-29 12:47:51,403 - INFO - status has been updated to running
+2025-09-29 12:47:56,998 - INFO - status has been updated to accepted
+2025-09-29 12:48:04,809 - INFO - status has been updated to successful
+2025-09-29 12:48:13,027 - INFO - Baixando variável 'surface_net_solar_radiation' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:48:13,593 - INFO - Request ID is c65199aa-2b90-477d-9006-70c0b7a5f10f
+2025-09-29 12:48:13,803 - INFO - status has been updated to accepted
+2025-09-29 12:48:19,530 - INFO - status has been updated to running
+2025-09-29 12:48:28,564 - INFO - status has been updated to successful
+2025-09-29 12:48:35,256 - INFO - Baixando variável 'surface_net_thermal_radiation' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:48:35,818 - INFO - Request ID is ad27c949-49c8-4071-85df-dd25ba6ba36d
+2025-09-29 12:48:36,063 - INFO - status has been updated to accepted
+2025-09-29 12:48:50,686 - INFO - status has been updated to running
+2025-09-29 12:48:58,561 - INFO - status has been updated to accepted
+2025-09-29 12:49:10,841 - INFO - status has been updated to successful
+2025-09-29 12:49:20,614 - INFO - Baixando variável 'surface_sensible_heat_flux' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:49:21,127 - INFO - Request ID is c9cd66dc-04a1-42d1-81dc-b2e100bc5dda
+2025-09-29 12:49:21,377 - INFO - status has been updated to accepted
+2025-09-29 12:49:30,732 - INFO - status has been updated to running
+2025-09-29 12:49:55,567 - INFO - status has been updated to successful
+2025-09-29 12:50:03,270 - INFO - Baixando variável 'surface_solar_radiation_downwards' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:50:03,927 - INFO - Request ID is b20ca26a-a9a7-4f06-b989-b4bff1ff6290
+2025-09-29 12:50:05,261 - INFO - status has been updated to accepted
+2025-09-29 12:50:15,219 - INFO - status has been updated to running
+2025-09-29 12:50:57,377 - INFO - status has been updated to successful
+2025-09-29 12:51:03,954 - INFO - Baixando variável 'surface_thermal_radiation_downwards' (surface) de 2002-03-11 a 2002-03-11
+2025-09-29 12:51:04,508 - INFO - Request ID is bb73562b-e093-4e5f-b73a-bccff627fa0f
+2025-09-29 12:51:04,778 - INFO - status has been updated to accepted
+2025-09-29 12:51:14,022 - INFO - status has been updated to running
+2025-09-29 12:51:27,409 - INFO - status has been updated to successful
+2025-09-29 12:51:37,938 - INFO - Baixando variável 'soil_temperature_level_1' (soil) de 2002-03-11 a 2002-03-11
+2025-09-29 12:51:38,526 - INFO - Request ID is 9efc5998-3e61-468c-9c0f-3a8a377c8cb5
+2025-09-29 12:51:38,992 - INFO - status has been updated to accepted
+2025-09-29 12:51:48,243 - INFO - status has been updated to running
+2025-09-29 12:51:53,768 - INFO - status has been updated to successful
+2025-09-29 12:52:00,752 - INFO - Baixando variável 'soil_temperature_level_2' (soil) de 2002-03-11 a 2002-03-11
+2025-09-29 12:52:01,534 - INFO - Request ID is e5c32ef9-d084-49a6-bb59-6a71751456c9
+2025-09-29 12:52:01,812 - INFO - status has been updated to accepted
+2025-09-29 12:52:17,089 - INFO - status has been updated to running
+2025-09-29 12:52:25,123 - INFO - status has been updated to accepted
+2025-09-29 12:52:36,730 - INFO - status has been updated to successful
+2025-09-29 12:52:43,305 - INFO - Baixando variável 'soil_temperature_level_3' (soil) de 2002-03-11 a 2002-03-11
+2025-09-29 12:52:43,819 - INFO - Request ID is 36aabfc2-9132-4042-841f-f3c06faa2f61
+2025-09-29 12:52:44,066 - INFO - status has been updated to accepted
+2025-09-29 12:52:54,376 - INFO - status has been updated to running
+2025-09-29 12:53:07,641 - INFO - status has been updated to successful
+2025-09-29 12:53:13,678 - INFO - Baixando variável 'soil_temperature_level_4' (soil) de 2002-03-11 a 2002-03-11
+2025-09-29 12:53:14,118 - INFO - Request ID is 18711cc7-510d-4d41-b0ed-ac09cd5603a0
+2025-09-29 12:53:14,339 - INFO - status has been updated to accepted
+2025-09-29 12:53:23,585 - INFO - status has been updated to running
+2025-09-29 12:53:48,417 - INFO - status has been updated to successful
+2025-09-29 12:53:54,721 - INFO - Baixando variável 'volumetric_soil_water_layer_1' (soil) de 2002-03-11 a 2002-03-11
+2025-09-29 12:53:55,439 - INFO - Request ID is 6ece9602-0195-404a-a202-8609182b8fe2
+2025-09-29 12:53:55,890 - INFO - status has been updated to accepted
+2025-09-29 12:54:05,437 - INFO - status has been updated to running
+2025-09-29 12:54:10,803 - INFO - status has been updated to successful
+2025-09-29 12:54:18,605 - INFO - Baixando variável 'volumetric_soil_water_layer_2' (soil) de 2002-03-11 a 2002-03-11
+2025-09-29 12:54:19,580 - INFO - Request ID is cff4b9e2-d2ec-4e29-af50-05b88fc96bb7
+2025-09-29 12:54:20,050 - INFO - status has been updated to accepted
+2025-09-29 12:54:35,253 - INFO - status has been updated to running
+2025-09-29 12:54:54,712 - INFO - status has been updated to successful
+2025-09-29 12:55:02,235 - INFO - Baixando variável 'volumetric_soil_water_layer_3' (soil) de 2002-03-11 a 2002-03-11
+2025-09-29 12:55:02,704 - INFO - Request ID is 4b9ac591-f007-4859-b0ac-2ce37eaa819a
+2025-09-29 12:55:02,929 - INFO - status has been updated to accepted
+2025-09-29 12:55:13,058 - INFO - status has been updated to running
+2025-09-29 12:55:26,193 - INFO - status has been updated to successful
+2025-09-29 12:55:32,640 - INFO - Baixando variável 'volumetric_soil_water_layer_4' (soil) de 2002-03-11 a 2002-03-11
+2025-09-29 12:55:33,278 - INFO - Request ID is dcfd9a18-00de-4398-9a5e-43175b864062
+2025-09-29 12:55:33,537 - INFO - status has been updated to accepted
+2025-09-29 12:55:42,709 - INFO - status has been updated to running
+2025-09-29 12:55:55,972 - INFO - status has been updated to successful
+2025-09-29 13:08:13,337 - INFO - Iniciando download para o período de 2002-03-11 a 2002-03-11.
+2025-09-29 13:08:14,675 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-29 13:08:14,677 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-29 13:08:14,678 - INFO - Baixando: 2m_dewpoint_temperature para 2002-03-11
+2025-09-29 13:08:17,937 - INFO - Request ID is 8d45dceb-9c9e-4d48-9885-62bf16dfd255
+2025-09-29 13:08:18,342 - INFO - status has been updated to accepted
+2025-09-29 13:08:28,307 - INFO - status has been updated to running
+2025-09-29 13:09:38,128 - INFO - status has been updated to successful
+2025-09-29 13:09:39,006 - INFO - Baixando: 2m_temperature para 2002-03-11
+2025-09-29 13:09:40,146 - INFO - Request ID is 4ea4e164-257e-42cb-87f8-c546d0d03155
+2025-09-29 13:09:40,596 - INFO - status has been updated to accepted
+2025-09-29 13:09:46,572 - INFO - status has been updated to running
+2025-09-29 13:09:55,848 - INFO - status has been updated to successful
+2025-09-29 13:09:56,722 - INFO - Baixando: skin_temperature para 2002-03-11
+2025-09-29 13:09:57,739 - INFO - Request ID is f9490009-847d-47e9-b24a-e5aa6ad42160
+2025-09-29 13:09:58,173 - INFO - status has been updated to accepted
+2025-09-29 13:10:07,997 - INFO - status has been updated to running
+2025-09-29 13:10:21,519 - INFO - status has been updated to successful
+2025-09-29 13:10:22,361 - INFO - Baixando: 10m_u_component_of_wind para 2002-03-11
+2025-09-29 13:10:23,337 - INFO - Request ID is 2a8fc4d3-eb08-458d-939f-27b82905c6db
+2025-09-29 13:10:23,734 - INFO - status has been updated to accepted
+2025-09-29 13:10:34,209 - INFO - status has been updated to running
+2025-09-29 13:10:47,702 - INFO - status has been updated to successful
+2025-09-29 13:10:48,635 - INFO - Baixando: 10m_v_component_of_wind para 2002-03-11
+2025-09-29 13:10:49,965 - INFO - Request ID is 9721a2db-6b9c-4423-805c-b10fff3355aa
+2025-09-29 13:10:50,435 - INFO - status has been updated to accepted
+2025-09-29 13:11:01,364 - INFO - status has been updated to running
+2025-09-29 13:11:14,907 - INFO - status has been updated to successful
+2025-09-29 13:11:15,852 - INFO - Baixando: surface_pressure para 2002-03-11
+2025-09-29 13:11:17,081 - INFO - Request ID is c1d9fade-2ed2-4f12-80d4-ca7696a044b4
+2025-09-29 13:11:17,483 - INFO - status has been updated to accepted
+2025-09-29 13:12:13,347 - INFO - Iniciando download para o período de 2002-03-11 a 2002-03-11.
+2025-09-29 13:12:15,351 - INFO - [2025-09-03T00:00:00] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-09-29 13:12:15,352 - INFO - [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-09-29 13:12:15,352 - INFO - Baixando: 2m_dewpoint_temperature para 2002-03-11
+2025-09-29 13:12:16,278 - INFO - Request ID is 362085b9-f427-4d4b-aeaa-6f7af1555e4d
+2025-09-29 13:12:16,783 - INFO - status has been updated to accepted
+2025-09-29 13:12:26,577 - INFO - status has been updated to running
+2025-09-29 13:12:32,098 - INFO - status has been updated to successful
+2025-09-29 13:12:33,069 - INFO - Baixando: 2m_temperature para 2002-03-11
+2025-09-29 13:12:34,075 - INFO - Request ID is cc91fa45-91ca-4a93-93f2-c62cface5fe8
+2025-09-29 13:12:34,478 - INFO - status has been updated to accepted
+2025-09-29 13:12:44,338 - INFO - status has been updated to running
+2025-09-29 13:12:49,796 - INFO - status has been updated to successful
+2025-09-29 13:12:50,781 - INFO - Baixando: skin_temperature para 2002-03-11
+2025-09-29 13:12:51,746 - INFO - Request ID is 5cd46fa6-342e-4c73-b0e0-ce92039396ce
+2025-09-29 13:12:52,108 - INFO - status has been updated to accepted
+2025-09-29 13:13:01,845 - INFO - status has been updated to running
+2025-09-29 13:13:07,387 - INFO - status has been updated to successful
+2025-09-29 13:13:08,176 - INFO - Baixando: 10m_u_component_of_wind para 2002-03-11
+2025-09-29 13:13:09,203 - INFO - Request ID is 3ca67407-fa40-418a-a0bc-be25fb38bcd6
+2025-09-29 13:13:09,619 - INFO - status has been updated to accepted
