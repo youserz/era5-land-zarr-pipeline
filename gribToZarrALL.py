@@ -154,4 +154,5 @@ finally:
     if os.path.exists(gribFileName):
         os.remove(gribFileName)
         print(f"   - Arquivo '{gribFileName}' removido.")
+
     print("Processo finalizado!")
