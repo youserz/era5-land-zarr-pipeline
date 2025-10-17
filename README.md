@@ -43,7 +43,7 @@ pip install -r requisitos.txt
 ### Executar o pipeline principal
 
 ```bash
-python ETL.py
+python gribToZarrALL.py
 ```
 
 Esse script é responsável por:
@@ -55,19 +55,10 @@ Esse script é responsável por:
 ### Visualização / Plotagem
 
 ```bash
-python plotData.py
+python plotDataGrib-Zarr.py
 ```
 
 Gera gráficos ou mapeamentos a partir dos dados processados.
-
-### Testar integridade / leitura do Zarr
-
-```bash
-python testarZarr.py
-```
-
-Serve para verificar se os arquivos Zarr produzidos estão coerentes (leitura, atributos, etc.).
-
 ---
 
 ## 📌 Observações & dicas
